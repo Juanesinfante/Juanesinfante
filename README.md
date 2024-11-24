@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Juanesinfante
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning JavaScripy, frontEnd ant things like that
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java, I want to be a full-stack programmer
 
 <!---
 Juanesinfante/Juanesinfante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
